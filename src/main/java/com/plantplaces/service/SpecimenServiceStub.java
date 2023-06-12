@@ -12,7 +12,7 @@ public class SpecimenServiceStub {
 		specimenDTO.setSpecimenId(43);
 		specimenDTO.setLatitude("39.74");
 		specimenDTO.setLongitude("-84.51");
-		specimenDTO.setLongitude("A beautiful Eastern Redbud");
+		specimenDTO.setDescription("A beautiful Eastern Redbud");
 		
 		return specimenDTO;
 	}

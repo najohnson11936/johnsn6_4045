@@ -42,7 +42,7 @@ public class PlantPlacesController {
 		return "index";
 	}
 	
-	@PostMapping("/index")
+	@PostMapping("/")
 	public String create() {
 		return "index";
 	}

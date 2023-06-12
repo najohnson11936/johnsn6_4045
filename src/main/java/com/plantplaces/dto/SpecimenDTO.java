@@ -40,6 +40,6 @@ public class SpecimenDTO {
 	}
 
 	public String toString() {
-		return specimenId + " " + latitude + " " + longitude;
+		return specimenId + " " + latitude + " " + longitude + " " + description;
 	}
 }
